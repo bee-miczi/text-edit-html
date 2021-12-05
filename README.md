@@ -1,2 +1,2 @@
-# text edit html file
+# Textedit html file
 An html file developt compleatly in textedit
